@@ -14,27 +14,28 @@ body {
   background-attachment: fixed;  
   background-size: cover;
 }
-
 nav {
-  float: left;
-  width: 65%;
-  height: 500px;
-  padding: 20px;
+  float: inline-start;
+  width: 100%;
+  height: 100px;
+  padding: 5px;
 }
-
 nav ul {
   list-style-type: none;
   padding: 0;
 }
-
 article {
-  float: right;
+  float: left;
   padding: 20px;
-  width: 20%;
-  height: 500px;
+  width: 100%;
+  height: 380px;
+}
+img {
+  border-radius: 50%;
 }
 footer {
   padding: 10px;
+  width: 100%;
   text-align: center;
   color: Tomato;
 }
@@ -51,15 +52,11 @@ footer {
     <p style="color:Tomato;">I'm senior year college student at IT and Busness college.</p>
     </ul>
   </nav>
-
 <article>
- <p> fasedgf </p>
+  <img src="dead.jpg" alt="deadpool"style="width:300px;height:300px;">
 </article>
-
-
 <footer>
   <p>Phone Namber: +996(777)777 777</p>
 </footer>
-
 </body>
 </html>
