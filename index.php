@@ -58,5 +58,6 @@ footer {
 <footer>
   <p>Phone Namber: +996(777)777 777</p>
 </footer>
+  <div>Instagram:<a href="https://www.instagram.com/" target="_blank">login</a></div>
 </body>
 </html>
