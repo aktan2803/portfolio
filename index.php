@@ -49,7 +49,7 @@ footer {
 
   <nav>
     <ul>
-    <p style="color:Tomato;">I'm senior year college student at IT and Busness college.</p>
+    <p style="color:Tomato;">I'm senior year college student at IT and Busness college.Address:Djal 12</p>
     </ul>
   </nav>
 <article>
