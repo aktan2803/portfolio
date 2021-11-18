@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>Ruslanov Aktan</title>
 <style>
 header {
   padding: 10px;
@@ -49,7 +50,8 @@ footer {
 
   <nav>
     <ul>
-    <p style="color:Tomato;">I'm senior year college student at IT and Busness college.Address:Djal 12</p>
+    <p style="color:Tomato;">I'm senior year college student at IT and Busness college.
+      Address:Djal 12</p>
     </ul>
   </nav>
 <article>
